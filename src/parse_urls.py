@@ -231,8 +231,13 @@ formatter = logging.Formatter(
 ch.setFormatter(formatter)
 logger.addHandler(ch)
 
-#LuckyNoobsBuilds = ParseLuckyNoobSite()
+allbuilds = {}
+
+LuckyNoobsBuilds = ParseLuckyNoobSite()
+print(json.dumps(LuckyNoobsBuilds, indent=4))
 DiscretizeBuilds = ParseDiscretizeSite()
 print(json.dumps(DiscretizeBuilds, indent=4))
 
-
+#allbuilds.update(LuckyNoobsBuilds)
+#allbuilds.update(DiscretizeBuilds)
+#print(json.dumps(allbuilds, indent=4))

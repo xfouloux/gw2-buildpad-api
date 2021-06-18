@@ -1,0 +1,245 @@
+{
+    "guardian":
+    {
+        "guardian":
+        {
+            "raids": {},
+            "fractals": {},
+            "pve": {},
+            "pvp": {},
+            "www": {}
+        },
+        "firebrand":
+        {
+            "raids": {},
+            "fractals": {},
+            "pve": {},
+            "pvp": {},
+            "www": {}
+        },
+        "dragonhunter":
+        {
+            "raids": {},
+            "fractals": {},
+            "pve": {},
+            "pvp": {},
+            "www": {}
+        }
+    },
+    "revenant":
+    {
+        "revenant":
+        {
+            "raids": {},
+            "fractals": {},
+            "pve": {},
+            "pvp": {},
+            "www": {}
+        },
+        "renegade":
+        {
+            "raids": {},
+            "fractals": {},
+            "pve": {},
+            "pvp": {},
+            "www": {}
+        },
+        "herald":
+        {
+            "raids": {},
+            "fractals": {},
+            "pve": {},
+            "pvp": {},
+            "www": {}
+        }
+    },
+    "ranger":
+    {
+        "ranger":
+        {
+            "raids": {},
+            "fractals": {},
+            "pve": {},
+            "pvp": {},
+            "www": {}
+        },
+        "soulbeast":
+        {
+            "raids": {},
+            "fractals": {},
+            "pve": {},
+            "pvp": {},
+            "www": {}
+        },
+        "druid":
+        {
+            "raids": {},
+            "fractals": {},
+            "pve": {},
+            "pvp": {},
+            "www": {}
+        }
+    },
+    "thief":
+    {
+        "thief":
+        {
+            "raids": {},
+            "fractals": {},
+            "pve": {},
+            "pvp": {},
+            "www": {}
+        },
+        "daredevil":
+        {
+            "raids": {},
+            "fractals": {},
+            "pve": {},
+            "pvp": {},
+            "www": {}
+        },
+        "deadeye":
+        {
+            "raids": {},
+            "fractals": {},
+            "pve": {},
+            "pvp": {},
+            "www": {}
+        }
+    },
+    "engineer":
+    {
+        "engineer":
+        {
+            "raids": {},
+            "fractals": {},
+            "pve": {},
+            "pvp": {},
+            "www": {}
+        },
+        "scrapper":
+        {
+            "raids": {},
+            "fractals": {},
+            "pve": {},
+            "pvp": {},
+            "www": {}
+        },
+        "holosmith":
+        {
+            "raids": {},
+            "fractals": {},
+            "pve": {},
+            "pvp": {},
+            "www": {}
+        }
+    },
+    "elementalist":
+    {
+        "elementalist":
+        {
+            "raids": {},
+            "fractals": {},
+            "pve": {},
+            "pvp": {},
+            "www": {}
+        },
+        "weaver":
+        {
+            "raids": {},
+            "fractals": {},
+            "pve": {},
+            "pvp": {},
+            "www": {}
+        },
+        "tempest":
+        {
+            "raids": {},
+            "fractals": {},
+            "pve": {},
+            "pvp": {},
+            "www": {}
+        }
+    },
+    "mesmer":
+    {
+        "mesmer":
+        {
+            "raids": {},
+            "fractals": {},
+            "pve": {},
+            "pvp": {},
+            "www": {}
+        },
+        "chronomancer":
+        {
+            "raids": {},
+            "fractals": {},
+            "pve": {},
+            "pvp": {},
+            "www": {}
+        },
+        "mirage":
+        {
+            "raids": {},
+            "fractals": {},
+            "pve": {},
+            "pvp": {},
+            "www": {}
+        }
+    },
+    "necromancer":
+    {
+        "necromancer":
+        {
+            "raids": {},
+            "fractals": {},
+            "pve": {},
+            "pvp": {},
+            "www": {}
+        },
+        "reaper":
+        {
+            "raids": {},
+            "fractals": {},
+            "pve": {},
+            "pvp": {},
+            "www": {}
+        },
+        "scourge":
+        {
+            "raids": {},
+            "fractals": {},
+            "pve": {},
+            "pvp": {},
+            "www": {}
+        }
+    },
+    "warrior":
+    {
+        "warrior":
+        {
+            "raids": {},
+            "fractals": {},
+            "pve": {},
+            "pvp": {},
+            "www": {}
+        },
+        "berserker":
+        {
+            "raids": {},
+            "fractals": {},
+            "pve": {},
+            "pvp": {},
+            "www": {}
+        },
+        "spellbreaker":
+        {
+            "raids": {},
+            "fractals": {},
+            "pve": {},
+            "pvp": {},
+            "www": {}
+        }
+    }
+}
